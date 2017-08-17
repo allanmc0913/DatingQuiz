@@ -1,0 +1,31 @@
+The EECS Harmony Quiz!!!!! lol!
+4
+4In stressful situations, you are generally a ___ person.
+2 2calm
+3 3frazzled
+4 4angry
+1 -3fussy
+7What is your favorite color?
+1 2blue
+2 1red
+3 10orange
+4 -2brown
+2 3black
+1 1pink
+1 3green
+8Who's your favorite EECS 183 T.A.?
+3 2Reed
+1 3Lisa
+4 1Adam
+1 6Tim
+4 1Billy
+2 2Steve
+3 1David
+2 2Carolyn
+5What was your favorite project?
+1 2Vanilla Cupcakes
+4 -6Birthdays
+2 4Ciphers
+3 3OhHi
+2 2EECS Harmony
+

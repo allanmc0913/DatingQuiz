@@ -1,0 +1,47 @@
+The EECS Harmony Extra Credit Questionnaire
+10
+3Do you like horror movies?
+1 2Yes
+4 2No
+0 1Sometimes, but I close my eyes at the scary parts
+3Have you ever travelled around another country alone?
+0 3Yes
+4 3No
+1 1Would love to, but don't have the money
+3What do you do for fun in your spare time?
+2 2Party and socialize
+3 1Stay home, listen to music, watch movies
+4 1Spare time? What's that
+5What would you do if you won $10 million?
+1 2Use it to change the world
+1 2Travel
+4 4Write the Great American Novel
+3 2Invest it for the future
+1 1Spend it on fine dining, partying
+4If a friend invited you to your favorite vacation spot, and you had to work, would you go?
+4 -3Of course, my bags are already packed
+1 3No, I have to work
+3 -2I have to check my schedule
+0 -3I would love to go. Let me see if I can get someone to cover for me
+2Which do you value more?
+3 1Beauty
+1 2Intelligence
+3If you were convinced a friend was making a bad decision, what would you do about it?
+0 -3Nothing, it is their life
+3 3Talk to them about it to see if they see both sides of the issue
+2 2Tell them they are being stupid
+3If you are having a bad day, what do you like to do?
+1 -1Be left alone
+2 2Spend time around your friends to cheer you up
+0 -1Eat chocolate
+4What kinds of shoes do you prefer to wear?
+2 1High heels
+4 -3Sneakers
+1 -1Crocs
+0 2Barefoot!
+4What is your motto?
+1 1"Why do today what you can do tomorrow?"
+4 2"Why do tomorrow what you can do today?"
+0 2"Shake it off"
+3 3"Be kind"
+
